@@ -4,6 +4,10 @@ Has 12 chapters
 
 run with:
 
-command "docker run -it adventure_game"
-or
 run 'main' button
+or
+command 'python main.py'
+
+in docker:
+command 'docker run -it adventure_game'
+
